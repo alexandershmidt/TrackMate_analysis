@@ -4,6 +4,7 @@ some scripts are taken from here https://github.com/fiji/TrackMate/tree/master/s
 Run TrackMate analysis:
 
 with a script:
+0: defiine parameters for trackmateTrackAnalysis
 1. provide path to reference track (.xml).
 2. provide paths to other tracks (.xml).
 3. label the tracks
