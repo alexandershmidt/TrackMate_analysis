@@ -5,9 +5,9 @@ Run TrackMate analysis:
 
 with a script:
 
-0: defiine parameters for trackmateTrackAnalysis
-1. provide path to reference track (.xml).
-2. provide paths to other tracks (.xml).
+0. defiine parameters for trackmateTrackAnalysis
+1. provide path to reference track (.xml)
+2. provide paths to other tracks (.xml)
 3. label the tracks
 4. define name for analysis results
 5. define maximum distance between spots
