@@ -1,6 +1,5 @@
 # TrackMate_analysis
-matlab scripts for TrackMate analysis
-some scripts tooken ffrom here https://github.com/fiji/TrackMate/tree/master/scripts
+some scripts are taken from here https://github.com/fiji/TrackMate/tree/master/scripts
 
 Run TrackMate analysis:
 
