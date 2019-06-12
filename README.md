@@ -1,6 +1,8 @@
 # TrackMate_analysis
 some scripts are taken from here https://github.com/fiji/TrackMate/tree/master/scripts
 
+Prerequisites for MatLab scripts: MATLAB, Statistical Toolbox, Curve Fitting Toolbox, App Designer, Application Compiler and gramm
+
 Run TrackMate analysis:
 
 with a script:
