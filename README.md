@@ -5,7 +5,7 @@ Run TrackMate analysis:
 
 with a script:
 
-0. defiine parameters for trackmateTrackAnalysis
+0. define parameters for trackmateTrackAnalysis
 1. provide path to reference track (.xml)
 2. provide paths to other tracks (.xml)
 3. label the tracks
