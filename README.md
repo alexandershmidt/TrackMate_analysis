@@ -3,6 +3,7 @@ matlab scripts for TrackMate analysis
 some scripts tooken ffrom here https://github.com/fiji/TrackMate/tree/master/scripts
 
 Run TrackMate analysis:
+
 with a script:
 1. provide path to reference track (.xml).
 2. provide paths to other tracks (.xml).
@@ -14,6 +15,7 @@ with a script:
 8. define number of bins
 9. run trackmateTrackAnalysis.
 (Example provided in run_trackmateanalysis)
+
 with gui:
 1. start trackmate_analysis_gui
 2. provide path to reference track (.xml).
