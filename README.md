@@ -6,28 +6,30 @@ Prerequisites for MatLab scripts: MATLAB, Statistical Toolbox, Curve Fitting Too
 Run TrackMate analysis:
 
 with a script:
+user defined parameters:
+  path to reference track (.xml)
+  paths to other tracks (.xml)
+  label the tracks
+  define name for analysis results
+  maximum distance between spots
+  minimum number of frames for colocalizations
+  minimum lifetime of tracks
+  number of bins
 
-0. define parameters for trackmateTrackAnalysis
-1. provide path to reference track (.xml)
-2. provide paths to other tracks (.xml)
-3. label the tracks
-4. define name for analysis results
-5. define maximum distance between spots
-6. define minimum number of frames for colocalizations
-7. define minimum lifetime of tracks
-8. define number of bins
-9. run trackmateTrackAnalysis.
+run trackmateTrackAnalysis.m.
 (Example provided in run_trackmateanalysis)
 
 with gui:
+user defined parameters:
+  start trackmate_analysis_gui
+  path to reference track (.xml).
+  paths to other tracks (.xml).
+  label the tracks
+  name for analysis results
+  maximum distance between spots
+  minimum number of frames for colocalizations
+  minimum lifetime of tracks
+  number of bins
 
-1. start trackmate_analysis_gui
-2. provide path to reference track (.xml).
-3. provide paths to other tracks (.xml).
-4. label the tracks
-5. define name for analysis results
-6. define maximum distance between spots
-7. define minimum number of frames for colocalizations
-8. define minimum lifetime of tracks
-9. define number of bins
-10. push start
+push start
+
