@@ -7,29 +7,29 @@ Run TrackMate analysis:
 
 with a script:
 user defined parameters:
-  path to reference track (.xml)
-  paths to other tracks (.xml)
-  label the tracks
-  define name for analysis results
-  maximum distance between spots
-  minimum number of frames for colocalizations
-  minimum lifetime of tracks
-  number of bins
+  path to reference track (.xml),
+  paths to other tracks (.xml),
+  label the tracks,
+  name for analysis results,
+  maximum distance between spots,
+  minimum number of frames for colocalizations,
+  minimum lifetime of tracks,
+  number of bins.
 
 run trackmateTrackAnalysis.m.
 (Example provided in run_trackmateanalysis)
 
 with gui:
 user defined parameters:
-  start trackmate_analysis_gui
-  path to reference track (.xml).
-  paths to other tracks (.xml).
-  label the tracks
-  name for analysis results
-  maximum distance between spots
-  minimum number of frames for colocalizations
-  minimum lifetime of tracks
-  number of bins
+  start trackmate_analysis_gui,
+  path to reference track (.xml),
+  paths to other tracks (.xml),
+  label the tracks,
+  name for analysis results,
+  maximum distance between spots,
+  minimum number of frames for colocalizations,
+  minimum lifetime of tracks,
+  number of bins.
 
 push start
 
